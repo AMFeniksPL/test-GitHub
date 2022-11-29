@@ -1,1 +1,1 @@
-print("ELO")
+print("Witam")
